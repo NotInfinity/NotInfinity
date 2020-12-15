@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning how to time travel 🤣
 - 👯 I'm looking for people to collaborate with
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Cats are cats
 
 ### Connect with me:
 
