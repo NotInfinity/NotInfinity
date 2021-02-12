@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br />
+[<img align="left" alt="SoundCloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]<br />
 
 ### Languages and Tools:
 
@@ -39,3 +38,4 @@
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCm8c8GWqraobt_O1b3y-nPw
+[soundcloud]: https://soundcloud.com/notinfinityy
